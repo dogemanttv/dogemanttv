@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dogemanwastaken
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
+- 👀 I’m interested in js
+- 🌱 I’m currently learning c++
 
 certified epic gamer
